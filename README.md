@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Pedro 👋
+Pero también me dicen **Pepe** o **Peter**.
 
-<!--
-**pepe-avila/pepe-avila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tengo experiencia en infra IT
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,docker,powershell" alt="Infraestructura" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Toco código también
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,py,tailwind" alt="Desarrollo" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Y tuve la oportunidad de usar estas herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,obsidian" alt="Herramientas" />
+  </a>
+</p>
+
+---
+
+📫 ¿Hablamos? Encontrame en [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
